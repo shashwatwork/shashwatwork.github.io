@@ -49,7 +49,7 @@ All codes and exercises of this website are hosted on GitHub in a dedicated repo
 <div class="github-card" data-github="shashwatwork" data-width="100%" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-You can [contact me](mailto:stiwari2719n@gmail.com) if you think we could work together on an article or a project, or if you have any question/remark. If you would like to get to know more about me and my projects, feel free to check out my [resume](https://shashwatt.github.io/assets/files/CV.pdf). I'm uploading articles that I'm writing in my free time. I'm trying to upload one article per month on average.
+You can [contact me](mailto:stiwari2719n@gmail.com) if you think we could work together on an article or a project, or if you have any question/remark. If you would like to get to know more about me and my projects, feel free to check out my [resume](https://shashwatwork.github.io/assets/files/CV.pdf). I'm uploading articles that I'm writing in my free time. I'm trying to upload one article per month on average.
 
 <hr>
 

@@ -5,13 +5,13 @@ author_profile: true
 title: "By Topic"
 layouts_gallery:
   - url: https://shashwatwork.github.io/ml/
-    image_path: /assets/images/ml_short.png
+    image_path: /assets/images/ml_short.jpg
   - url: https://shashwatwork.github.io/dl/
     image_path: /assets/images/dl_short.png
   - url: https://shashwatwork.github.io/cv/
     image_path: /assets/images/cv_short.png
   - url: https://shashwatwork.github.io/rl/
-    image_path: /assets/images/rl_short.png
+    image_path: /assets/images/rl_short.jpg
 
 ---
 
@@ -100,9 +100,10 @@ I have written more than 20 articles so far, so feel free to explore the differe
 {% include gallery id="layouts_gallery" class="full" layout="half"%}
 
 # Medium Articles
+<br>
 
 <div id="medium-widget"></div>
-    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@datasciencehub","postsPerLine":2,"limit":6,"picture":"big","fields":["description","author","claps","likes","publishAt"],"ratio":"landscape"}})</script>
+<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@datasciencehub","postsPerLine":2,"limit":6,"picture":"big","fields":["description","author","claps","likes","publishAt"],"ratio":"landscape"}})</script>
 
 <br>
