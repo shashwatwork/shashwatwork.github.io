@@ -24,7 +24,7 @@ Outside of Data Science, my interests are:
 - Reading/Learning
 - Entrepreneurship
 
-I have a Bachelor Degree as well as  Masters Degree in Computer Applications from the University of Rajasthan and VIT,Vellore respectively.During my Graduation Days I was very fascinated about AI/ML and decided to follow my passion towards AI and joined as ML Engineer @ Virtusa.
+I have a Bachelor Degree as well as  Masters Degree in Computer Applications from the University of Rajasthan and VIT,Vellore respectively.During my Graduation Days I was very fascinated about AI/ML and decided to follow my passion towards AI and joined Virtusa as ML Engineer.
 
 I am Technical Blogger and Open Source Contributer.Also Member of Open Data Science Community for contribution to various open source porjects.
  My technical interests are:
