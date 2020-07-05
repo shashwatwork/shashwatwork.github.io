@@ -104,6 +104,7 @@ I have written more than 20 articles so far, so feel free to explore the differe
 
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@datasciencehub","postsPerLine":10,"limit":20,"picture":"big","fields":["description","author","claps","likes","publishAt"],"ratio":"landscape"}})</script>
+<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@datasciencehub","postsPerLine":2,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+
 
 <br>
