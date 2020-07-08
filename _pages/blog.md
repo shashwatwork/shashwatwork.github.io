@@ -108,7 +108,6 @@ I have written more than 20 articles so far, so feel free to explore the differe
 
 
 <br>
-<br>
 
 <input type="button" onclick="location.href='https://medium.com/@datasciencehub';" value="See All" />
 <br>
