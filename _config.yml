@@ -24,7 +24,7 @@ url                      : https://shashwatwork.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "shashwatwork/shashwatwork.github.io"
 teaser                   : # Default teaser image "assets/images/contents/main-cover.jpg"
-logo                     : https://shashwatwork.github.io/assets/images/logo_xxl.PNG # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : https://shashwatwork.github.io/assets/images/logo1.PNG # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

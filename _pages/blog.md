@@ -12,6 +12,8 @@ layouts_gallery:
     image_path: /assets/images/cv_short.png
   - url: https://shashwatwork.github.io/rl/
     image_path: /assets/images/rl_short.jpg
+  - url: https://shashwatwork.github.io/bd/
+    image_path: /assets/images/bd_short.jpg
 
 ---
 
