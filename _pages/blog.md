@@ -9,7 +9,7 @@ layouts_gallery:
   - url: https://shashwatwork.github.io/dl/
     image_path: /assets/images/dl_short.png
   - url: https://shashwatwork.github.io/cv/
-    image_path: /assets/images/cv_short.png
+    image_path: /assets/images/cv_short.jpg
   - url: https://shashwatwork.github.io/rl/
     image_path: /assets/images/rl_short.jpg
   - url: https://shashwatwork.github.io/bd/
