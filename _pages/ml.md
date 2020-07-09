@@ -4,7 +4,7 @@ layout: archive
 permalink: /ml/
 author_profile: false
 header :
-    image: "https://shashwatwork.github.io/assets/images/ml_short.png"
+    image: "https://shashwatwork.github.io/assets/images/ml_short.jpg"
 sidebar:
     nav: sidebar-sample
 ---
