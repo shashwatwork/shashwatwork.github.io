@@ -4,7 +4,7 @@ layout: archive
 permalink: /cv/
 author_profile: false
 header :
-    image: "https://shashwatwork.github.io/assets/images/cv_short.png"
+    image: "https://shashwatwork.github.io/assets/images/cv_short.jpg"
 sidebar:
     nav: sidebar-sample
 ---
