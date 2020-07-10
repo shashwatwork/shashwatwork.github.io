@@ -9,7 +9,7 @@ sidebar:
     nav: sidebar-sample
 ---
 
-A series of articles dedicated to Deep Learning. All codes and exercises of this section are hosted on GitHub in a dedicated repository :
+A series of articles dedicated to Computer Vision. All codes and exercises of this section are hosted on GitHub in a dedicated repository :
 
 <div class="github-card" data-github="shashwatwork" data-width="100%" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
