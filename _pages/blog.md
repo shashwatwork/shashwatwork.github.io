@@ -103,7 +103,7 @@ I have written more than 20 articles so far, so feel free to explore the differe
 
 
 # Latest Articles
-[AI/ML Cheat Sheet 2020](https://shashwatwork.github.io/ml/RL_1) : An introduction to the basic building blocks of reinforcement learning.
+[AI/ML Cheat Sheet 2020](https://shashwatwork.github.io/machinelearning/article_1) : An introduction to the basic building blocks of reinforcement learning.
 
 
 # Medium Articles
