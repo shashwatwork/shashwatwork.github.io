@@ -104,6 +104,9 @@ I have written more than 20 articles so far, so feel free to explore the differe
 
 # Latest Articles
 [AI/ML Cheat Sheet 2020](https://shashwatwork.github.io/machinelearning/article_1) : Collection of Online Resources Related to Machine Learning and Deep Learning.
+<br
+
+[Reinforcement Learning — Beginner’s Approach Chapter -II](https://medium.com/analytics-vidhya/reinforcement-learning-beginners-approach-chapter-ii-a72e415c57ca) :Blog introduces  Reinforcement learning algorithms for Beginners.
 
 
 # Medium Articles
