@@ -108,6 +108,13 @@ I have written more than 20 articles so far, so feel free to explore the differe
 
 [Reinforcement Learning — Beginner’s Approach Chapter -II](https://medium.com/analytics-vidhya/reinforcement-learning-beginners-approach-chapter-ii-a72e415c57ca) :Blog introduces  Reinforcement learning algorithms for Beginners.
 
+<br>
+
+[Machine learning Cheat Sheat Naive Bayes](https://medium.com/analytics-vidhya/machine-learning-cheat-sheet-naive-bayes-56a8ea5bb610) :A Quick pointers for Machine Learning Algorithms core concepts.
+
+<br
+
+[Machine learning Cheat Sheat KNN Algorithm](https://datasciencehub.medium.com/machine-learning-cheat-sheet-k-nearest-neighbors-algorithm-93462a66831) :A Quick pointers for Machine Learning Algorithms core concepts.
 
 # Medium Articles
 <br>

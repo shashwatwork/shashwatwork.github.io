@@ -19,3 +19,6 @@ A series of articles dedicated to Reinforcement Learning. All codes and exercise
 
 [Reinforcement Learning — Beginner’s Approach Chapter -I](https://medium.com/analytics-vidhya/reinforcement-learning-beginners-approach-chapter-i-689f999cf572) : Series of Chapters explaning core terminlogies related to Reinforcement learning and its Applications in Real World.
 
+<br>
+
+[Reinforcement Learning — Beginner’s Approach Chapter -II](https://medium.com/analytics-vidhya/reinforcement-learning-beginners-approach-chapter-ii-a72e415c57ca) :Blog introduces  Reinforcement learning algorithms for Beginners.

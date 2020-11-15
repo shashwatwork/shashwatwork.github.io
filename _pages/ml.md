@@ -30,3 +30,8 @@ A series of articles dedicated to machine learning and statistics. All codes and
 
 [ML Android App Development with Retrofit & Flask REST API.](https://medium.com/@datasciencehub/android-app-development-with-retrofit-flask-rest-2e3fe50b00f9) : One of first kind of Android App Developed with Retrofit (JAVA API) and Flask Rest-Plus (Python API).
 
+[Machine learning Cheat Sheat Naive Bayes](https://medium.com/analytics-vidhya/machine-learning-cheat-sheet-naive-bayes-56a8ea5bb610) :A Quick pointers for Machine Learning Algorithms core concepts.
+
+[Machine learning Cheat Sheat KNN Algorithm](https://datasciencehub.medium.com/machine-learning-cheat-sheet-k-nearest-neighbors-algorithm-93462a66831) :A Quick pointers for Machine Learning Algorithms core concepts.
+
+
