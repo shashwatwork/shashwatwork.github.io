@@ -8,9 +8,9 @@ redirect_from:
     - /about.html
 ---
 
-<p style="font-size:0.5em">Current status: Machine Learning Engineer @ Virtusa || ML/DL Practioner.</p>
+<p style="font-size:0.5em">Current status: Data Scientist @ dunnhumby || ML/DL Practioner.</p>
 
-Welcome to my blog. My name is Shashwat Tiwari and I'm a ML Engineer @ Virtusa Corp. Continously Evolving with AI Lifesciences and Healthcare Application Marketplace i.e. [vLife](https://virtusa.com/vlife).
+Welcome to my blog. My name is Shashwat Tiwari and I'm a Data Scientist @ dunnhumby. Helping Retail customers with niche technology in order to get informed decisions.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
