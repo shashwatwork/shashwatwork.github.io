@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my digital sanctuary! I'm Shashwat Tiwari, a Senior Data Scientist at EY, where I help clients harness the power of niche technology to make informed decisions.
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shashwat-tiwari"><a class="LI-simple-link" href='https://in.linkedin.com/in/shashwat-tiwari?trk=profile-badge'>Shashwat Tiwari</a></div>
 
 <br>
