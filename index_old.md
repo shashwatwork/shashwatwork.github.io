@@ -10,13 +10,22 @@ redirect_from:
 
 <p style="font-size:0.5em">Current status: Senior Data Scientist @ EY || ML/Gen AI Practioner.</p>
 
-Welcome to my blog. My name is Shashwat Tiwari and I'm a Senior Data Scientist @ EY. Helping customers with niche technology in order to get informed decisions.
+I'm Shashwat Tiwari, but you can call me "The Data Whisperer."  By day, I'm a Senior Data Scientist at EY, helping companies translate their data into actionable insights. By night, I'm a passionate blogger and open-source enthusiast, sharing my knowledge and fueling the fire of innovation.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shashwat-tiwari"><a class="LI-simple-link" href='https://in.linkedin.com/in/shashwat-tiwari?trk=profile-badge'>Shashwat Tiwari</a></div>
 
 <br>
+
+My journey started with a fascination for AI and ML. A thirst for knowledge led me from the University of Rajasthan to VIT, Vellore, where I honed my skills in data science.  Today, my playground includes exciting fields like Machine Learning, Generative AI, and Natural Language Processing.
+
+Why this blog? Simply put, because knowledge thrives on sharing.
+
+Learning never stops: Here, I break down complex concepts into bite-sized pieces, turning knowledge into a conversation.
+The Data Science Sprint: In an ever-evolving field, staying ahead is a challenge. Here, I share projects and learn through hands-on exploration.
+My digital memory bank: Let's face it, we all forget things. This blog serves as my personal data science encyclopedia, readily accessible for both me and you.
+The Ripple Effect: If my experiences can help someone else navigate the world of data science, that's the ultimate reward
 
 Outside of Data Science, my interests are:
 - Traveling 
